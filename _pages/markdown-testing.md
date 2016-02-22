@@ -9,7 +9,7 @@ permalink: >
   http://clients.blueliquiddesigns.com.au/gfpdf3/gf1_6/markdown-testing/
 published: true
 ---
-# h1 Heading 8-) 
+# h1 Heading 8-)
 ## h2 Heading
 ### h3 Heading
 #### h4 Heading
@@ -107,13 +107,13 @@ Block code "fences"
 ```
 Sample text here...
 
-&lt;body&gt;
+<body>
 
-   &lt;head&gt;
+   <head>
      Stuff.
-   &lt;/head&gt;
+   </head>
 
-&lt;/body&gt;
+</body>
 
 ```
 
